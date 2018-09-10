@@ -1,0 +1,177 @@
+10-25 18:02:48 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "?" не найдена
+Table "?" not found; SQL statement:
+DELETE FROM "?" WHERE ID=? [42102-168]
+10-25 18:02:48 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "?" не найдена
+Table "?" not found; SQL statement:
+DELETE FROM "?" WHERE ID=? [42102-168]
+10-25 18:02:48 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "?" не найдена
+Table "?" not found; SQL statement:
+DELETE FROM "?" WHERE ID=? [42102-168]
+10-25 18:02:48 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "?" не найдена
+Table "?" not found; SQL statement:
+DELETE FROM "?" WHERE ID=? [42102-168]
+10-25 18:02:48 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "?" не найдена
+Table "?" not found; SQL statement:
+DELETE FROM "?" WHERE ID=? [42102-168]
+10-25 18:05:09 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "?" не найдена
+Table "?" not found; SQL statement:
+DELETE FROM "?" WHERE ID=? [42102-168]
+10-25 18:05:09 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "?" не найдена
+Table "?" not found; SQL statement:
+DELETE FROM "?" WHERE ID=? [42102-168]
+10-25 18:05:09 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "?" не найдена
+Table "?" not found; SQL statement:
+DELETE FROM "?" WHERE ID=? [42102-168]
+10-25 18:05:09 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "?" не найдена
+Table "?" not found; SQL statement:
+DELETE FROM "?" WHERE ID=? [42102-168]
+10-25 18:05:09 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "?" не найдена
+Table "?" not found; SQL statement:
+DELETE FROM "?" WHERE ID=? [42102-168]
+10-25 18:06:12 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "?" не найдена
+Table "?" not found; SQL statement:
+DELETE FROM "?" WHERE ID=? [42102-168]
+10-25 18:06:12 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "?" не найдена
+Table "?" not found; SQL statement:
+DELETE FROM "?" WHERE ID=? [42102-168]
+10-25 18:06:12 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "?" не найдена
+Table "?" not found; SQL statement:
+DELETE FROM "?" WHERE ID=? [42102-168]
+10-25 18:06:12 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "?" не найдена
+Table "?" not found; SQL statement:
+DELETE FROM "?" WHERE ID=? [42102-168]
+10-25 18:06:12 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "?" не найдена
+Table "?" not found; SQL statement:
+DELETE FROM "?" WHERE ID=? [42102-168]
+10-25 18:07:06 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Синтаксическая ошибка в выражении SQL "DELETE FROM ?[*] WHERE ID=?"; ожидалось "identifier"
+Syntax error in SQL statement "DELETE FROM ?[*] WHERE ID=?"; expected "identifier"; SQL statement:
+DELETE FROM ? WHERE ID=? [42001-168]
+10-25 18:07:06 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Синтаксическая ошибка в выражении SQL "DELETE FROM ?[*] WHERE ID=?"; ожидалось "identifier"
+Syntax error in SQL statement "DELETE FROM ?[*] WHERE ID=?"; expected "identifier"; SQL statement:
+DELETE FROM ? WHERE ID=? [42001-168]
+10-25 18:07:06 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Синтаксическая ошибка в выражении SQL "DELETE FROM ?[*] WHERE ID=?"; ожидалось "identifier"
+Syntax error in SQL statement "DELETE FROM ?[*] WHERE ID=?"; expected "identifier"; SQL statement:
+DELETE FROM ? WHERE ID=? [42001-168]
+10-25 18:07:06 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Синтаксическая ошибка в выражении SQL "DELETE FROM ?[*] WHERE ID=?"; ожидалось "identifier"
+Syntax error in SQL statement "DELETE FROM ?[*] WHERE ID=?"; expected "identifier"; SQL statement:
+DELETE FROM ? WHERE ID=? [42001-168]
+10-25 18:07:06 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Синтаксическая ошибка в выражении SQL "DELETE FROM ?[*] WHERE ID=?"; ожидалось "identifier"
+Syntax error in SQL statement "DELETE FROM ?[*] WHERE ID=?"; expected "identifier"; SQL statement:
+DELETE FROM ? WHERE ID=? [42001-168]
+10-25 18:11:23 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Синтаксическая ошибка в выражении SQL "DELETE FROM ?[*] WHERE ID = ?"; ожидалось "identifier"
+Syntax error in SQL statement "DELETE FROM ?[*] WHERE ID = ?"; expected "identifier"; SQL statement:
+DELETE FROM ? WHERE ID = ? [42001-168]
+10-25 18:11:23 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Синтаксическая ошибка в выражении SQL "DELETE FROM ?[*] WHERE ID = ?"; ожидалось "identifier"
+Syntax error in SQL statement "DELETE FROM ?[*] WHERE ID = ?"; expected "identifier"; SQL statement:
+DELETE FROM ? WHERE ID = ? [42001-168]
+10-25 18:11:23 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Синтаксическая ошибка в выражении SQL "DELETE FROM ?[*] WHERE ID = ?"; ожидалось "identifier"
+Syntax error in SQL statement "DELETE FROM ?[*] WHERE ID = ?"; expected "identifier"; SQL statement:
+DELETE FROM ? WHERE ID = ? [42001-168]
+10-25 18:11:23 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Синтаксическая ошибка в выражении SQL "DELETE FROM ?[*] WHERE ID = ?"; ожидалось "identifier"
+Syntax error in SQL statement "DELETE FROM ?[*] WHERE ID = ?"; expected "identifier"; SQL statement:
+DELETE FROM ? WHERE ID = ? [42001-168]
+10-25 18:11:23 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Синтаксическая ошибка в выражении SQL "DELETE FROM ?[*] WHERE ID = ?"; ожидалось "identifier"
+Syntax error in SQL statement "DELETE FROM ?[*] WHERE ID = ?"; expected "identifier"; SQL statement:
+DELETE FROM ? WHERE ID = ? [42001-168]
+10-25 18:19:28 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Синтаксическая ошибка в выражении SQL "DELETE FROM ?[*] WHERE ID = ?"; ожидалось "identifier"
+Syntax error in SQL statement "DELETE FROM ?[*] WHERE ID = ?"; expected "identifier"; SQL statement:
+DELETE FROM ? WHERE ID = ? [42001-168]
+10-25 18:19:28 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Синтаксическая ошибка в выражении SQL "DELETE FROM ?[*] WHERE ID = ?"; ожидалось "identifier"
+Syntax error in SQL statement "DELETE FROM ?[*] WHERE ID = ?"; expected "identifier"; SQL statement:
+DELETE FROM ? WHERE ID = ? [42001-168]
+10-25 18:19:28 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Синтаксическая ошибка в выражении SQL "DELETE FROM ?[*] WHERE ID = ?"; ожидалось "identifier"
+Syntax error in SQL statement "DELETE FROM ?[*] WHERE ID = ?"; expected "identifier"; SQL statement:
+DELETE FROM ? WHERE ID = ? [42001-168]
+10-25 18:19:28 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Синтаксическая ошибка в выражении SQL "DELETE FROM ?[*] WHERE ID = ?"; ожидалось "identifier"
+Syntax error in SQL statement "DELETE FROM ?[*] WHERE ID = ?"; expected "identifier"; SQL statement:
+DELETE FROM ? WHERE ID = ? [42001-168]
+10-25 18:19:28 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Синтаксическая ошибка в выражении SQL "DELETE FROM ?[*] WHERE ID = ?"; ожидалось "identifier"
+Syntax error in SQL statement "DELETE FROM ?[*] WHERE ID = ?"; expected "identifier"; SQL statement:
+DELETE FROM ? WHERE ID = ? [42001-168]
+10-25 18:22:24 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Неверное количество столбцов
+Column count does not match; SQL statement:
+INSERT INTO OFERTS values (?,?,?,?,?,?,?,?,?,?,?,?,?,?) [21002-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.command.dml.Insert.prepare(Insert.java:226)
+	at org.h2.command.Parser.prepareCommand(Parser.java:218)
+	at org.h2.engine.Session.prepareLocal(Session.java:415)
+	at org.h2.engine.Session.prepareCommand(Session.java:364)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1109)
+	at org.h2.jdbc.JdbcPreparedStatement.<init>(JdbcPreparedStatement.java:74)
+	at org.h2.jdbc.JdbcConnection.prepareStatement(JdbcConnection.java:264)
+	at org.client.datamanager.Database.getPreperedStatement(Database.java:60)
+	at org.client.datamanager.DataAdd.addOfert(DataAdd.java:107)
+	at org.client.datamanager.RMIDataGetter$3.run(RMIDataGetter.java:84)
+	at java.lang.Thread.run(Unknown Source)
+10-25 18:25:08 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Неверное количество столбцов
+Column count does not match; SQL statement:
+INSERT INTO OFERTS values (?,?,?,?,?,?,?,?,?,?,?,?,?,?) [21002-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.command.dml.Insert.prepare(Insert.java:226)
+	at org.h2.command.Parser.prepareCommand(Parser.java:218)
+	at org.h2.engine.Session.prepareLocal(Session.java:415)
+	at org.h2.engine.Session.prepareCommand(Session.java:364)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1109)
+	at org.h2.jdbc.JdbcPreparedStatement.<init>(JdbcPreparedStatement.java:74)
+	at org.h2.jdbc.JdbcConnection.prepareStatement(JdbcConnection.java:264)
+	at org.client.datamanager.Database.getPreperedStatement(Database.java:60)
+	at org.client.datamanager.DataAdd.addOfert(DataAdd.java:107)
+	at org.client.datamanager.RMIDataGetter$3.run(RMIDataGetter.java:84)
+	at java.lang.Thread.run(Unknown Source)
+10-25 18:28:35 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Неверное количество столбцов
+Column count does not match; SQL statement:
+INSERT INTO OFERTS values (?,?,?,?,?,?,?,?,?,?,?,?,?,?) [21002-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.command.dml.Insert.prepare(Insert.java:226)
+	at org.h2.command.Parser.prepareCommand(Parser.java:218)
+	at org.h2.engine.Session.prepareLocal(Session.java:415)
+	at org.h2.engine.Session.prepareCommand(Session.java:364)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1109)
+	at org.h2.jdbc.JdbcPreparedStatement.<init>(JdbcPreparedStatement.java:74)
+	at org.h2.jdbc.JdbcConnection.prepareStatement(JdbcConnection.java:264)
+	at org.client.datamanager.Database.getPreperedStatement(Database.java:60)
+	at org.client.datamanager.DataAdd.addOfert(DataAdd.java:107)
+	at org.client.datamanager.RMIDataGetter$3.run(RMIDataGetter.java:84)
+	at java.lang.Thread.run(Unknown Source)

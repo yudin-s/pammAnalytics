@@ -1,0 +1,24 @@
+#!FX-TREND SETTINGS
+#! Login for login to fx-trend.com
+fx-trendLogin = popov_denis
+#! Password for login to fx-trend.com
+fx-trendPassword = azrail666
+#! Delay time after full update in fx-trend.com
+fx-trendTime = 3600000
+
+#!INTERNET SETTINGS
+#!Proxy settings. That setting has been used for HTTP and HTTPS connections
+#!If parameter proxy-set non-exist or not true it's means that proxy don't be used 
+proxySet = false
+proxyHost = 8.8.8.8
+proxyPort = 7
+
+#!DATABASE SETTINGS
+#!Server can work with H2 and MySQL database
+#!Example init line for H2: jdbc:h2:mem:~/database - for memory database
+#!Example init line for MySQL: jdbc:mysql://[HOST]/[DATABASE]
+dbLogin = login
+dbPassword = password
+dbSchema = PUBLIC
+dbJdbcInitLine = jdbc:h2:~/db_new
+#!dbJdbcInitLine = jdbc:mysql://localhost/testPamm

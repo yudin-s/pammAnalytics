@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/cssparser-0.9.5.jar"/>
+	<classpathentry kind="lib" path="lib/filterbuilder.jar"/>
+	<classpathentry kind="lib" path="lib/htmllexer.jar"/>
+	<classpathentry kind="lib" path="lib/htmlparser.jar"/>
+	<classpathentry kind="lib" path="lib/htmlunit-2.9.jar"/>
+	<classpathentry kind="lib" path="lib/htmlunit-core-js-2.9.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/sitecapturer.jar"/>
+	<classpathentry kind="lib" path="lib/thumbelina.jar"/>
+	<classpathentry kind="lib" path="lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/db"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/slf4j"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/neko"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/logback"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="lib/h2-1.3.168.jar"/>
+	<classpathentry kind="lib" path="lib/logback-access-1.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/logback-classic-1.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/logback-core-1.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/nekohtml.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Shared"/>
+	<classpathentry kind="lib" path="lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.22-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

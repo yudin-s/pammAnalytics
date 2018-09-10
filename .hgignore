@@ -1,0 +1,6 @@
+syntax: glob
+*bin/*
+*.class
+*/build/*
+*.grab
+*/dist/*
